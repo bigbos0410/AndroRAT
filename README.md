@@ -1,7 +1,8 @@
 **Disclaimer** : This software is meant for educational purposes only. I'm not responsible for any malicious use of the app.
 # AndroRAT 
 
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbigbos0410%2FAndroRAT.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbigbos0410%2FAndroRAT?ref=badge_shield)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/karma9874?label=Follow&style=social)](https://twitter.com/karma9874)
 [![GitHub followers](https://img.shields.io/github/followers/karma9874?label=Follow&style=social)](https://github.com/karma9874)
 
@@ -152,3 +153,6 @@ In the sh shell there are some sub commands
 AndroRAT is licensed under MIT license take a look at the [LICENSE](LICENSE) for more information.
 
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbigbos0410%2FAndroRAT.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbigbos0410%2FAndroRAT?ref=badge_large)
